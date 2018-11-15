@@ -7,10 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chih-Kuan Yeh / Site Title"
+title                    : "Chih-Kuan Yeh"
 title_separator          : "-"
 name                     : &name "Chih-Kuan Yeh"
-description              : &description "personal description"
+#description              : &description "personal description"
+description              : &description "Ph.D. in CMU MLD"
 url                      : https://chihkuanyeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chihkuanyeh/chihkuanyeh.github.io"
@@ -80,12 +81,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Chih-Kuan Yeh"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "2nd year Ph.D. in Machine Learning Department, School of Computer Science, Carnegie Mellon University."
+  location         : "Pittsburgh"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
