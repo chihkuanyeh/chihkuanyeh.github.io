@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chih-Kuan Yeh"
+title                    : "Chih-Kuan Yeh/ Site Title"
 title_separator          : "-"
 name                     : &name "Chih-Kuan Yeh"
 description              : &description "Ph.D. in CMU MLD"
