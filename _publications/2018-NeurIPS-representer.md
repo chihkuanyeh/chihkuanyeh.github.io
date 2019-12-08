@@ -2,7 +2,7 @@
 title: "Representer Point Selection for Explaining Deep Neural Networks"
 collection: publications
 permalink: /publication/2018-NeurIPS-representer
-date: 2018
+date: 2018-12-12
 venue: 'NeurIPS'
 excerpt: 'We propose to decompose the prediction of a neural network by the contributions of traning data by a representer theorem for neural networks for explaining neural networks..'
 paperurl: 'https://papers.nips.cc/paper/8141-representer-point-selection-for-explaining-deep-neural-networks.pdf'
