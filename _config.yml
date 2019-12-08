@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Chih-Kuan Yeh"
   avatar           : "profile.png"
-  bio              : "2nd year Ph.D. in MLD CMU."
+  bio              : "3rd year Ph.D. in MLD CMU."
   location         : "Pittsburgh"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=tikMtMsAAAAJ&hl=en"
+  email            : cjyeh!!@cs.cmu.edu (remove !!)
   uri              :
   bitbucket        :
   codepen          :
