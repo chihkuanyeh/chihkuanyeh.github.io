@@ -87,7 +87,7 @@ author:
   location         : "Pittsburgh"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=tikMtMsAAAAJ&hl=en"
-  email            : cjyeh!!@cs.cmu.edu (remove !!)
+  email            : "cjyeh@cs.cmu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
