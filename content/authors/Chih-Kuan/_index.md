@@ -20,6 +20,7 @@ bio: My research interests involves better understanding and explaining machine 
 interests:
 - Artificial Intelligence
 - Machine Learning
+- Explanable AI
 - Algorithmic Game Theory
 
 # Education to show in About widget
@@ -49,6 +50,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/chih-kuan-jason-yeh-8859378b/
+#- icon: chess_pawn
+#  icon_pack: emoji
+#  link: https://lichess.org/@/jasony6582
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,4 +68,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a fifth-year PhD student at Carnegie Mellon University Machine Learning Department. My research intrests include understanding and interpreting machine learning models, and how to use these understanding to improve models. My main goal is to place explanability methods on an objective footing such as measurable metrics and axiomatic properties (while I also believe human interaction is crucial). I'm also interested in low-resource learning, algorithmic game theory and statistical machine learning. I am in the job market this year. I started playing chess as a hobby since late 2020, and I'm 1900 rapid on lichess currently.
+I am a fifth-year PhD student at Carnegie Mellon University Machine Learning Department. My research intrests include understanding and interpreting machine learning models, and how to use these understanding to improve models. My main goal is to place explanability methods on an objective footing via measurable metrics and axiomatic properties (while I believe human interaction and objective measures are both crucial and can be complementary). I'm also interested in low-resource learning, algorithmic game theory and statistical machine learning. I am in the job market this year.
