@@ -50,6 +50,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/chih-kuan-jason-yeh-8859378b/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://www.linkedin.com/in/chih-kuan-jason-yeh-8859378b/
+- icon: spades
+  icon_pack: emoji
+  link: https://lichess.org/@/jasony6582
 #- icon: chess_pawn
 #  icon_pack: emoji
 #  link: https://lichess.org/@/jasony6582
@@ -68,4 +74,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a fifth-year PhD student at Carnegie Mellon University Machine Learning Department. My research intrests include understanding and interpreting machine learning models, and how to use these understanding to improve models. My main goal is to place explanability methods on an objective footing via measurable metrics and axiomatic properties (while I believe human interaction and objective measures are both crucial and can be complementary). I'm also interested in low-resource learning, algorithmic game theory and statistical machine learning. I am in the job market this year.
+I am a fifth-year PhD student at Carnegie Mellon University Machine Learning Department. My research intrests include understanding and interpreting machine learning models, and how to use these understanding to improve models. My main goal is to place explanability methods on an objective footing via measurable metrics and axiomatic properties (while I believe human interaction and objective measures are both crucial and can be complementary). I'm also interested in low-resource learning, algorithmic game theory and statistical machine learning. I am currently in the job market this year.

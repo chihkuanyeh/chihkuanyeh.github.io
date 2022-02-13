@@ -36,7 +36,7 @@ summary: An early attempt on unsupervised classification of speech phonemes base
 tags: []
 
 # Display this page in the Featured widget?
-featured: True
+featured: False
 
 # Custom links (uncomment lines below)
 
