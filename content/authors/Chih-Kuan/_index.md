@@ -41,9 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=tikMtMsAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/chihkuanyeh
@@ -52,10 +49,7 @@ social:
   link: https://www.linkedin.com/in/chih-kuan-jason-yeh-8859378b/
 - icon: google-scholar
   icon_pack: ai
-  link: https://www.linkedin.com/in/chih-kuan-jason-yeh-8859378b/
-- icon: spades
-  icon_pack: emoji
-  link: https://lichess.org/@/jasony6582
+  link: https://scholar.google.com/citations?user=tikMtMsAAAAJ&hl=en
 #- icon: chess_pawn
 #  icon_pack: emoji
 #  link: https://lichess.org/@/jasony6582
