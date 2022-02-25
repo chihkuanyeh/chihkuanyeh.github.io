@@ -36,13 +36,13 @@ summary: A new value function that addresses issues of on-manifold and off-manif
 tags: []
 
 # Display this page in the Featured widget?
-featured: False
+featured: True
 
 # Custom links (uncomment lines below)
 
 
-url_pdf: '' #'https://arxiv.org/pdf/2006.00442.pdf'
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2202.11919.pdf' #'https://arxiv.org/pdf/2006.00442.pdf'
+url_code: 'https://github.com/chihkuanyeh/JBShap'
 url_dataset: ''
 url_poster: ''
 url_slides: ''

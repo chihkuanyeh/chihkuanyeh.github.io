@@ -42,7 +42,7 @@ featured: True
 # Custom links (uncomment lines below)
 
 
-url_pdf: 'https://drive.google.com/file/d/16SMRHxrJi1l1wgI5vz7qPy1voblrbWAy/view?usp=sharing' #'https://arxiv.org/pdf/2006.00442.pdf'
+url_pdf: 'https://arxiv.org/pdf/2202.11844.pdf' #'https://arxiv.org/pdf/2006.00442.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
