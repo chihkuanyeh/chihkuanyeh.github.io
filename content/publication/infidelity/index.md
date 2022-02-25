@@ -30,7 +30,7 @@ publication_short: In NeurIPS 2019
 abstract: We consider objective evaluation measures of saliency explanations for complex black-box machine learning models. We propose simple robust variants of two notions that have been considered in recent literature, (in)fidelity, and sensitivity. We analyze optimal explanations with respect to both these measures, and while the optimal explanation for sensitivity is a vacuous constant explanation, the optimal explanation for infidelity is a novel combination of two popular explanation methods. By varying the perturbation distribution that defines infidelity, we obtain novel explanations by optimizing infidelity, which we show to out-perform existing explanations in both quantitative and qualitative measurements. Another salient question given these measures is how to modify any given explanation to have better values with respect to these measures. We propose a simple modification based on lowering sensitivity, and moreover show that when done appropriately, we could simultaneously improve both sensitivity as well as fidelity.
 
 # Summary. An optional shortened abstract.
-summary: Provides metrics for saliency methods with a unified viewpoint.
+summary: Provides metrics for saliency methods with a unified viewpoint. Implemented in Captum (a Pytorch XAI framework).
 
 tags: []
 
