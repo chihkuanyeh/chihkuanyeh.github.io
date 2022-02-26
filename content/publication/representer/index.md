@@ -48,7 +48,7 @@ links:
    url: https://blog.ml.cmu.edu/2019/04/19/representer-point-selection-explain-dnn/
 
 url_pdf: 'https://arxiv.org/pdf/1811.09720.pdf'
-url_code: ''
+url_code: 'https://github.com/chihkuanyeh/Representer_Point_Selection'
 url_dataset: ''
 url_poster: ''
 url_blog: 'https://blog.ml.cmu.edu/2019/04/19/representer-point-selection-explain-dnn/'
