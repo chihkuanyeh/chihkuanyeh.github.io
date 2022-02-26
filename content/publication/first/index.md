@@ -5,11 +5,10 @@ title: "First is Better than Last for Training Data Influence"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Chih-Kuan Yeh
+- Ankur Taly
+- Mukund Sundararajan
 - Frederick Liu
 - Pradeep Ravikumar
-- Mukund Sundararajan
-- Ankur Taly
-
 
 # Author notes (optional)
 author_notes:
