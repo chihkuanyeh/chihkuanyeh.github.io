@@ -40,7 +40,7 @@ featured: False
 # Custom links (uncomment lines below)
 
 
-url_pdf: 'https://ebooks.iospress.nl/DOI/10.3233/FAIA210362'
+url_pdf: 'https://arxiv.org/pdf/2202.12451.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
