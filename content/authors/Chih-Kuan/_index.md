@@ -68,4 +68,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a fifth-year PhD student at Carnegie Mellon University Machine Learning Department. My research intrests include understanding and interpreting machine learning models, and how to use these understanding to improve models. My main goal is to place explanability methods on an objective footing via measurable metrics and axiomatic properties (while I believe human interaction and objective measures are both crucial and can be complementary). I'm also interested in low-resource learning, algorithmic game theory and statistical machine learning. I am currently in the job market this year.
+I am a fifth-year PhD student at Carnegie Mellon University Machine Learning Department. My research intrests include understanding and interpreting machine learning models by more objective explanations, and how to use our understanding by these explanationos to improve models (potentially with human-in-the-loop). I'm also interested in low-resource learning, algorithmic game theory and statistical machine learning. I am currently in the job market this year.
