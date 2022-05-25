@@ -68,4 +68,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a fifth-year PhD student at Carnegie Mellon University Machine Learning Department. My research intrests include understanding and interpreting machine learning models by more objective explanations, and how to use our understanding by these explanationos to improve models (potentially with human-in-the-loop). I'm also interested in low-resource learning, algorithmic game theory and statistical machine learning. I am currently in the job market this year.
+I am a fifth-year PhD student at Carnegie Mellon University Machine Learning Department, and I will be joining Google Brain Applied Research as a research scientist this year. My research intrests include understanding and interpreting machine learning models by more objective explanations, and how to use our understanding by these explanationos to improve models (potentially with human-in-the-loop). I'm also interested in low-resource learning, algorithmic game theory and statistical machine learning.
