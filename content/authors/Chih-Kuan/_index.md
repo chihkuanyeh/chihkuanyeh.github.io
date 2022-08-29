@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chih-kuan Yeh
+title: Chih-Kuan Yeh
 
 # Is this the primary user of the site?
 superuser: true
