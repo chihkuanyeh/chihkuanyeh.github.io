@@ -6,15 +6,15 @@ title: Chih-Kuan Yeh
 superuser: true
 
 # Role/position/tagline
-role: 5th year Ph.D. Student at Carnegie Mellon University (CMU)
+role: Research Scientist at Google Brain
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Carnegie Mellon University Machine Learning Department
-  url: https://www.ml.cmu.edu/
+- name: Google
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests involves better understanding and explaining machine learning algorithms.
+bio: My research interests involves improving models via model explanations.
 
 # Interests to show in About widget
 interests:
