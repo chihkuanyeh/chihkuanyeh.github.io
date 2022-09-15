@@ -68,4 +68,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a fifth-year PhD student at Carnegie Mellon University Machine Learning Department, and I will be joining Google Brain Applied Research as a research scientist this year. My research interests include understanding and interpreting machine learning models by more objective explanations, and how to use our understanding by these explanations to improve models (potentially with human-in-the-loop). I'm also interested in low-resource learning, algorithmic game theory, and statistical machine learning.
+I am a research scientist in Google Brain (joined September 2022). During my PhD in CMU, my research interests include understanding and interpreting machine learning models by more objective explanations, using our understanding by these explanations to improve models (potentially with human-in-the-loop), and statistical machine learning. In Google, I am interested in building better (large) models with less (but more efficient) data, and improving models with better model analysis.
