@@ -10,7 +10,7 @@ role: Research Scientist at Google Brain
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Google
+- name: #Google
   url: 
 
 # Short bio (displayed in user profile at end of posts)
