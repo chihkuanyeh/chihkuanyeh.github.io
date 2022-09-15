@@ -68,4 +68,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a research scientist in Google Brain (joined September 2022). During my PhD in CMU, my research interests mainly span understanding and interpreting machine learning models by more objective explanations. In Google, I am interested in building better (large) models with less (but more efficient) data, and improving models (potentially with human-in-the-loop) with our understanding obtained by model explanations.
+I am a research scientist in Google Brain. During my PhD in CMU, my research interests mainly span understanding and interpreting machine learning models by more objective explanations. More recently, I am interested in building better large-scale models with less (but more efficient) data, and improving models with our understanding obtained by model explanations. Feel free to contact me if you are interested in working with me.
