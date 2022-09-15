@@ -9,15 +9,17 @@ authors:
 - Mukund Sundararajan
 - Frederick Liu
 - Pradeep Ravikumar
+
+
 # Author notes (optional)
 author_notes:
-- 
+-
 
 date: "2022"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-04-01T00:00:00Z"
+publishDate: "2022-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +28,9 @@ publishDate: "2022-04-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In International Conference on Artificial Intelligence and Statistics 2022
-publication_short: In AISTATS 2022
+publication: To appear In Conference on Neural Information Processing Systems 2022
+publication_short: To appear In NeurIPS 2022
+
 
 abstract:  A popular explainable AI (XAI) approach to quantify feature importance of a given model is via Shapley values. These Shapley values arose in cooperative games, and hence a critical ingredient to compute these in an XAI context is a so-called value function, that computes the value of a subset of features, and which connects machine learning models to cooperative games.  There are many possible choices for such value functions, which broadly fall into two categories -- on-manifold and off-manifold value functions, which take an observational and an interventional viewpoint respectively. Both these classes however have their respective flaws, as shown in a line of recent work -- on-manifold value functions pay less heed to the model in deference to the underlying data distribution, violate key axiomatic properties, and are computationally expensive; while off-manifold value functions pays less heed to the data manifold, evaluate the model on regions for which it wasn't trained, and are susceptible to adversarial manipulations of the explanations. Thus there is no consensus on which class of value functions to use, and indeed some have argued to ``pick one's poison'' depending on the application at hand. In this paper, we show that in addition to these existing issues, both classes of value functions are prone to adversarial manipulations on low density regions. We formalize the desiderata of value functions that respect both the model as well as the data manifold in a set of axioms and be robust to perturbation on off-manifold regions, and show that there exists a unique value function that satisfies these axioms, which we term the Joint Baseline value function, and the resulting Shapley value the Joint Baseline Shapley (JBshap). We show moreover that JBshap is much more computationally efficient than on-manifold Shapley values, and can be scaled up to high dimensional data such as images.
 # Summary. An optional shortened abstract.
